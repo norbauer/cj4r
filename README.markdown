@@ -107,5 +107,5 @@ Cj4r::PublisherCommission.find(:all,
 
 
 ---
-Copyright (c) 2009 Copyright (c) 2008 Norbauer Inc, released under the MIT license<br/>
+Copyright (c) 2009 Norbauer Inc, released under the MIT license<br/>
 Written by Jose Fernandez, with support from iFundDrive.com
